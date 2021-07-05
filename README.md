@@ -16,4 +16,4 @@ Give a star to the repository
 🐦 [Twitter](https://twitter.com/MSRwpac) | [Facebook](https://www.facebook.com/MianShahzadRaza/)
 
 # Credits
-This addon is based on [Material Cards](https://github.com/marlenesco/material-cards) template by @github/marlenesco 
+This addon is based on [Material Cards](https://github.com/marlenesco/material-cards) template by @github.com/marlenesco
